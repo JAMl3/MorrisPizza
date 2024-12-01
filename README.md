@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** template for your `MorrisPizza` GitHub repository, including sections where you can add screenshots:
-
----
-
 # **MorrisPizza**
 
 A modern web application for managing a pizza delivery business. MorrisPizza streamlines the ordering process, manages inventory, and enhances customer engagement with a user-friendly interface.
