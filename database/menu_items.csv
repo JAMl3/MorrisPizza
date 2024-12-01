@@ -1,0 +1,236 @@
+id,category_id,item_name,price,description
+1,47,Chicken Salad,£5.99,N/A
+2,47,Coleslaw Salad,£1.99,N/A
+3,47,Prawn Cocktail,£6.69,N/A
+4,47,Side Salad,£2.29,N/A
+5,47,Tuna Salad,£5.69,N/A
+6,48,Chicken Kebabs,£8.99,Tender pieces of Marinated Chicken served in Pitta with Salad & choice of Garlic or Chilli Sauce
+7,48,Doner,£6.99,"Slices of high quality Doner Kebab, Served with Salad in a Pitta Bread & choice of Garlic or Chilli Sauce"
+8,48,Doner & Fries,£6.99,Choice of Garlic or Chilli Sauce
+9,48,Morri’s Special Shoebox Mixed Kebab,£10.99,"A mixture of Chicken and Doner Kebab, served with Fried Onion, Fried Mushroom, Fried Peppers with salad and Nan Bread & choice of Garlic or Chilli Sauce"
+10,48,Shoebox Mixed Kebabs,£9.99,"A mixture of Chicken and Doner Kebab, served with Salad in Nan Bread & choice of Garlic or Chilli Sauce"
+11,49,Americana 12oz,£8.49,"Topped with Double Slice of Cheese, Fried Onion All Burgers served in a bun with French Fries and Salad"
+12,49,Americana 6oz,£7.49,"Topped with Double Slice of Cheese, Fried Onion All Burgers served in a bun with French Fries and Salad"
+13,49,Boston Burger 12oz,£8.79,Topped with Double Slice of Cheese & Bacon All Burgers served in a bun with French Fries and Salad
+14,49,Boston Burger 6oz,£7.79,"Topped with Double Slice of Cheese, Bacon & Pepperoni All Burgers served in a bun with French Fries and Salad"
+15,49,Cheese Burger 12oz,£8.39,Topped with Double Slice of Cheese All Burgers served in a bun with French Fries and Salad
+16,49,Cheese Burger 6oz,£7.39,Topped with Double Slice of Cheese All Burgers served in a bun with French Fries and Salad
+17,49,Chicken Burger 12oz,£6.79,100% Chicken Filled Burger served with Heinz Mayonnaise All Burgers served in a bun with French Fries and Salad
+18,49,Chicken Burger 6oz,£5.99,100% Chicken Filled Burger served with Heinz Mayonnaise All Burgers served in a bun with French Fries and Salad
+19,49,Chilli Burger 12oz,£8.49,Topped with Chilli Con Carne Sauce All Burgers served in a bun with French Fries and Salad
+20,49,Chilli Burger 6oz,£7.49,Topped with Chilli Con Carne Sauce All Burgers served in a bun with French Fries and Salad
+21,49,De-Luxe Grilled Burger 12oz,£7.99,All Burgers served in a bun with French Fries and Salad
+22,49,De-Luxe Grilled Burger 6oz,£6.99,All Burgers served in a bun with French Fries and Salad
+23,49,DONER BURGER 12oz,£8.79,Double Slice of Cheese and Doner
+24,49,DONER BURGER 6oz,£7.79,Double Slice of Cheese and Doner
+25,49,Double Decker Chicken Burger 12oz,£7.79,"100% Chicken Fillet Burgers topped with Slice of Cheese, Hash Brown & Heinz Mayo All Burgers served in a bun with French Fries and Salad"
+26,49,Double Decker Chicken Burger 6oz,£6.59,"100% Chicken Fillet Burgers topped with Slice of Cheese, Hash Brown & Heinz Mayo All Burgers served in a bun with French Fries and Salad"
+27,49,Five ‘O’ 12oz,£8.49,Topped with Pineapple ring & Double Slice of Cheese All Burgers served in a bun with French Fries and Salad
+28,49,Five ‘O’ 6oz,£7.49,Topped with Pineapple ring & Double Slice of Cheese All Burgers served in a bun with French Fries and Salad
+29,49,Italiano 12oz,£8.79,Topped with Double Slice of Cheese & Pepperoni All Burgers served in a bun with French Fries and Salad
+30,49,Italiano 6oz,£7.79,Topped with Double Slice of Cheese & Pepperoni All Burgers served in a bun with French Fries and Salad
+31,49,Mega Burger 12oz,£9.99,"Triple Burger topped with triple Slice of Cheese & Fried Onion, Fried Mushrooms & Bacon All Burgers served in a bun with French Fries and Salad"
+32,49,Milano Burger 12oz,£8.99,"Topped with Double Slice of Cheese, Bacon & Pepperoni All Burgers served in a bun with French Fries and Salad"
+33,49,Milano Burger 6oz,£7.99,"Topped with Double Slice of Cheese, Bacon & Pepperoni All Burgers served in a bun with French Fries and Salad"
+34,49,Morri’s Special Burger 12oz,£8.99,Beef Burger & Chicken Burger topped with Double Slice of Cheese & Mayo All Burgers served in a bun with French Fries and Salad
+35,49,Portuguese Spicy Chicken Burger 12oz,£7.79,"100% Spicy Chicken Fillet Burger topped with Pepperoni, a slice of Cheese and Heinz Mayo All Burgers served in a bun with French Fries and Salad"
+36,49,Portuguese Spicy Chicken Burger 6oz,£6.69,"100% Spicy Chicken Fillet Burger topped with Pepperoni, a slice of Cheese and Heinz Mayo All Burgers served in a bun with French Fries and Salad"
+37,49,Ringo Burger NEW 12oz,£8.99,Beef Burger with Onion Rings and Double Cheese All Burgers served in a bun with French Fries and Salad
+38,49,Ringo Burger NEW 6oz,£7.99,Beef Burger with Onion Rings and Double Cheese All Burgers served in a bun with French Fries and Salad
+39,49,Smokey Burger 12oz,£8.20,Char-grilled Burger topped with Barbecue Sauce All Burgers served in a bun with French Fries and Salad
+40,49,Smokey Burger 6oz,£7.20,Char-grilled Burger topped with Barbecue Sauce All Burgers served in a bun with French Fries and Salad
+41,49,Special Chicken Burger 12oz,£6.99,"100% Chicken Fillet Burger served with Bacon, Double Slice of Cheeze & Heinz Mayo All Burgers served in a bun with French Fries and Salad"
+42,49,Special Chicken Burger 6oz,£5.99,"100% Chicken Fillet Burger served with Bacon, Double Slice of Cheeze & Heinz Mayo All Burgers served in a bun with French Fries and Salad"
+43,49,Spicy Chicken Burger 12oz,£7.39,100% Spicy Chicken Fillet Burger served with Heinz Mayonnaise All Burgers served in a bun with French Fries and Salad
+44,49,Spicy Chicken Burger 6oz,£6.39,100% Spicy Chicken Fillet Burger served with Heinz Mayonnaise All Burgers served in a bun with French Fries and Salad
+45,49,Swiss Burger NEW 12oz,£8.79,"Beef Burger, Double Cheese, Fried Mushroom & Garlic All Burgers served in a bun with French Fries and Salad"
+46,49,Swiss Burger NEW 6oz,£7.79,"Beef Burger, Double Cheese, Fried Mushroom & Garlic All Burgers served in a bun with French Fries and Salad"
+47,50,3 Sausage & Chips,£4.99,N/A
+48,50,4 Chicken Nuggets & Chips,£4.99,N/A
+49,50,4 Fish Fingers & Chips,£4.99,N/A
+50,50,Kebab Meat & Chips,£4.99,N/A
+51,50,Mini Margherita,£5.99,N/A
+52,40,BBQ Chicken Wings,£4.99,N/A
+53,40,BBQ CHICKEN WINGS,£4.99,N/A
+54,40,BREADED GARLIC MUSHROOM,£4.99,N/A
+55,40,Deep Fried Mozzarella,£4.49,Served with Salad & Sweet Chilli Sauce
+56,40,DEEP FRIED MOZZARELLA,£4.49,Served with Salad & Sweet Chilli Sauce
+57,40,Garlic Bread,£4.69,N/A
+58,40,GARLIC BREAD,£4.69,N/A
+59,40,Garlic Bread Pomador,£4.79,N/A
+60,40,GARLIC BREAD POMADOR,£4.79,Tomato
+61,40,Garlic Bread Supreme,£4.99,N/A
+62,40,GARLIC BREAD SUPREME,£4.99,Cheese
+63,40,Garlic Mushrooms,£3.99,N/A
+64,40,GARLIC MUSHROOMS,£3.99,N/A
+65,40,Garlic Mushrooms Supreme,£4.49,N/A
+66,40,GARLIC MUSHROOMS SUPREME,£4.49,Cheese
+67,40,JACK DANIEL’S CHICKEN WINGS,£5.89,N/A
+68,40,JALAPENO POPPERS,£4.89,Served with Salad & Sweet Chilli Sauce
+69,40,Nachos,£3.49,"Topped with Mixed Cheese, Italian Sauce & Jalapeno"
+70,40,Special Garlic Bread,£5.99,N/A
+71,40,SPECIAL GARLIC BREAD,£5.99,4 Different Cheeses
+72,40,Special Nachos,£4.49,"Topped with Mixed Cheese, Italian Sauce, Chilli Con Carne & Jalapeno"
+73,40,Spicy Tomato Garlic Bread,£4.89,N/A
+74,40,SPICY TOMATO GARLIC BREAD,£4.89,N/A
+75,59,7Up,£1.50,Cans
+76,59,Bottle,£2.99,1.5ltr Pepsi
+77,59,Dr Pepper,£1.50,Cans
+78,59,Fanta,£1.50,Cans
+79,59,Lilt,£1.50,Cans
+80,59,Pepsi,£1.50,Cans
+81,60,1000 Island Dressing,£0.80,N/A
+82,60,BBQ Sauce,£0.80,N/A
+83,60,Chilli Sauce,£0.80,N/A
+84,60,Garlic Mayo,£0.80,N/A
+85,60,Mayonnaise,£0.80,N/A
+86,60,Relish,£0.80,N/A
+87,60,Sweet Chilli Sauce,£0.80,N/A
+88,60,Tomato Sauce,£0.80,N/A
+89,60,Yoghurt Sauce,£0.80,N/A
+90,42,Chicken Feast,£8.99,"Skewered Chicken kebabs (Breast), served with Chips Salad & Coleslaw"
+91,42,Chicken Nuggets,£6.89,Deep Fried Chicken Nuggets served with Chips Salad & Coleslaw
+92,42,Chilli-Con-Carne (Portion),£6.89,Served with Pizza Bread or Chips
+93,42,Golden Chicken,£7.99,Deep Fried Fillets of Chicken in Bread Crumbs served with Chips Salad & Coleslaw
+94,42,Scampi,£6.99,"Breaded Scampi, served with Chips Salad & Coleslaw"
+95,61,Chocolate calzone,£4.59,N/A
+96,61,Chocolate Fudge Cake,£2.99,1 Slice
+97,61,Tiramisu,£3.99,Served with Single Cream
+98,43,Cheesy Chips,£3.99,N/A
+99,43,Curly Fries,£3.59,Choice of Dip
+100,43,French Fries,£2.80,N/A
+101,43,Jalapeño Peppers,£4.89,N/A
+102,43,Onion Rings,£2.99,Small
+103,43,Potato Wedges,£3.59,Choice of Dip
+104,43,Potato Wedges Cheese & Bacon,£4.69,N/A
+105,87,CHICKEN & BACON,£6.99,(Choice of dressing)
+106,87,CHICKEN & DONNER,£6.99,(Choice of dressing)
+107,87,CHICKEN TIKKA WRAP,£6.99,(Choice of dressing)
+108,87,CHICKEN WRAP,£6.99,chicken kebab and choice of dressing
+109,87,DONNER WRAP,£6.99,(Choice of dressing)
+110,44,Lasagna,£7.99,"Layers of pasta, bolognese sauce & bechamel sauce topped with parmesan cheese & cheese"
+111,44,Spaghetti Bolognese,£7.99,"Spaghetti, bolognese sauce, parmesan cheese & cheese"
+112,88,Al Funghi Parmesan,£9.99,"Mushroom and Garlic and melted mozzarella served with chips, italian salad and coleslaw."
+113,88,Hot Shot Parmesan,£9.99,"onion, Green Peppers & Jalapeños and melted mozzarella served with chips, italian salad and coleslaw."
+114,88,Parmesan Chicken,£8.99,"Breaded Chicken in white sauce and melted mozzarella served with chips, salad and coleslaw."
+115,45,Al Funghi 11″ Deep Pan,£8.69,Mushrooms
+116,45,Al Funghi 11″ Thin,£7.69,Mushrooms
+117,45,Al Funghi Family Size 16″,£15.38,Mushrooms
+118,45,BBQ Chicken 11″ Deep Pan,£9.49,"BBQ Chicken Chicken, BBQ Sauce"
+119,45,BBQ Chicken 11″ Thin,£8.49,"BBQ Chicken Chicken, BBQ Sauce"
+120,45,BBQ Chicken Family Size 16″,£16.98,"BBQ Chicken Chicken, BBQ Sauce"
+121,45,BBQ Pulled Pork 11″ Deep Pan,£11.99,"BBQ Pulled Pork BBQ Sauce, Pulled Pork, Green Peppers & Sweetcorn"
+122,45,BBQ Pulled Pork 11″ Thin,£10.99,"BBQ Pulled Pork BBQ Sauce, Pulled Pork, Green Peppers & Sweetcorn"
+123,45,BBQ Pulled Pork Family Size 16″,£19.99,"BBQ Pulled Pork BBQ Sauce, Pulled Pork, Green Peppers & Sweetcorn"
+124,45,Bolognese 11″ Deep Pan,£8.99,Bolognese Bolognese Sauce
+125,45,Bolognese 11″ Thin,£7.99,Bolognese Bolognese Sauce
+126,45,Bolognese Family Size 16″,£15.98,Bolognese Bolognese Sauce
+127,45,Chilli 11″ Deep Pan,£8.99,Chilli Chilli Con Carne Sauce
+128,45,Chilli 11″ Thin,£7.99,Chilli Chilli Con Carne Sauce
+129,45,Chilli Family Size 16″,£15.98,Chilli Chilli Con Carne Sauce
+130,45,Death By Garlic 11″ Deep Pan,£9.49,Death By Garlic Torn Chicken Breast and Mushrooms laid on Pizza Garlic Sauce topped with Italian Mixed Cheese
+131,45,Death By Garlic 11″ Thin,£8.49,Death By Garlic Torn Chicken Breast and Mushrooms laid on Pizza Garlic Sauce topped with Italian Mixed Cheese
+132,45,Death By Garlic Family Size 16″,£16.98,Death By Garlic Torn Chicken Breast and Mushrooms laid on Pizza Garlic Sauce topped with Italian Mixed Cheese
+133,45,Garlic Sausage 11″ Deep Pan,£8.99,"Garlic Sausage Garlic Sausage, Onions"
+134,45,Garlic Sausage 11″ Thin,£7.99,"Garlic Sausage Garlic Sausage, Onions"
+135,45,Garlic Sausage Family Size 16″,£15.98,"Garlic Sausage Garlic Sausage, Onions"
+136,45,Hot Lover 11″ Deep Pan,£9.49,"Hot Lover Pepperoni, Spicy Beef, Onions, Green Peppers, Cheddar Cheeese & Jalapenos"
+137,45,Hot Lover 11″ Thin,£8.49,"Hot Lover Pepperoni, Spicy Beef, Onions, Green Peppers, Cheddar Cheeese & Jalapenos"
+138,45,Hot Lover Family Size 16″,£16.98,"Hot Lover Pepperoni, Spicy Beef, Onions, Green Peppers, Cheddar Cheeese & Jalapenos"
+139,45,Italian Job 11″ Deep Pan,£9.99,"Italian Job Grilled Bacon & Pepperoni, Spicy Beef, Peppers"
+140,45,Italian Job 11″ Thin,£8.99,"Italian Job Grilled Bacon & Pepperoni, Spicy Beef, Peppers"
+141,45,Italian Job Family Size 16″,£17.98,"Italian Job Grilled Bacon & Pepperoni, Spicy Beef, Peppers"
+142,45,Margherita 11″ Deep Pan,£7.99,"Cheese, Tomato and Herbs"
+143,45,Margherita 11″ Thin,£6.99,"Cheese, Tomato and Herbs"
+144,45,Margherita Family Size 16″,£13.98,"Cheese, Tomato and Herbs"
+145,45,Meat Feast 11″ Deep Pan,£9.99,"Meat Feast Ham, Salami, Garlic Sausage, Pepperoni, Spicy Beef"
+146,45,Meat Feast 11″ Thin,£8.99,"Meat Feast Ham, Salami, Garlic Sausage, Pepperoni, Spicy Beef"
+147,45,Meat Feast Family Size 16″,£17.98,"Meat Feast Ham, Salami, Garlic Sausage, Pepperoni, Spicy Beef"
+148,45,Morri’s Special 11″ Deep Pan,£10.99,"Morri's Special Chef's own Preparation"
+149,45,Morri’s Special 11″ Thin,£9.99,"Morri's Special Chef's own Preparation"
+150,45,Morri’s Special Family Size 16″,£19.98,"Morri's Special Chef's own Preparation"
+151,45,Passion Pepperoni 11″ Deep Pan,£10.99,Passion Pepperoni 2 layers of Pepperoni & 2 layers of Cheese
+152,45,Passion Pepperoni 11″ Thin,£9.99,Passion Pepperoni 2 layers of Pepperoni & 2 layers of Cheese
+153,45,Passion Pepperoni Family Size 16″,£19.98,Passion Pepperoni 2 layers of Pepperoni & 2 layers of Cheese
+154,45,Pentathlon 11″ Deep Pan,£9.99,"Pentathlon Mushrooms, Ham, Chicken, Pepperoni"
+155,45,Pentathlon 11″ Thin,£8.99,"Pentathlon Mushrooms, Ham, Chicken, Pepperoni"
+156,45,Pentathlon Family Size 16″,£17.98,"Pentathlon Mushrooms, Ham, Chicken, Pepperoni"
+157,45,Pepperoni 11″ Deep Pan,£9.99,Pepperoni Pepperoni Sausage
+158,45,Pepperoni 11″ Thin,£8.99,Pepperoni Pepperoni Sausage
+159,45,Pepperoni Family Size 16″,£17.98,Pepperoni Pepperoni Sausage
+160,45,Pollo 11″ Deep Pan,£8.99,"Chicken, Sweetcorn Pollo"
+161,45,Pollo 11″ Thin,£7.99,"Chicken, Sweetcorn Pollo"
+162,45,Pollo A La Pepper 11″ Deep Pan,£8.99,Pollo A La Pepper Spicy Chicken and Peppers
+163,45,Pollo A La Pepper 11″ Thin,£7.99,Pollo A La Pepper Spicy Chicken and Peppers
+164,45,Pollo A La Pepper Family Size 16″,£15.98,Pollo A La Pepper Spicy Chicken and Peppers
+165,45,Pollo Family Size 16″,£15.98,"Chicken, Sweetcorn Pollo"
+166,45,Pollo Funghi 11″ Deep Pan,£8.99,Pollo Funghi Chicken & Mushroom
+167,45,Pollo Funghi 11″ Thin,£7.99,Pollo Funghi Chicken & Mushroom
+168,45,Pollo Funghi Family Size 16″,£15.98,Pollo Funghi Chicken & Mushroom
+169,45,Pollo Special 11″ Deep Pan,£9.49,"Pollo Special Chicken Mushrooms, Pepper Garlic Buter & Fresh Tomatoes"
+170,45,Pollo Special 11″ Thin,£8.49,"Pollo Special Chicken Mushrooms, Peppers, Garlic Buter & Fresh Tomatoes"
+171,45,Pollo Special Family Size 16″,£16.98,"Pollo Special Chicken Mushrooms, Peppers, Garlic Buter & Fresh Tomatoes"
+172,45,Prosciutto 11″ Deep Pan,£8.99,Prosciutto Ham
+173,45,Prosciutto 11″ Thin,£7.99,Prosciutto Ham
+174,45,Prosciutto Family Size 16″,£15.98,Prosciutto Ham
+175,45,Prosciutto Funghi 11″ Deep Pan,£9.49,"Prosciutto Funghi Ham, Mushrooms"
+176,45,Prosciutto Funghi 11″ Thin,£8.49,"Prosciutto Funghi Ham, Mushrooms"
+177,45,Prosciutto Funghi Family Size 16″,£16.98,"Prosciutto Funghi Ham, Mushrooms"
+178,45,Quatro Formaggi 11″ Deep Pan,£8.89,Combination of four different Cheeses Quatro Formaggi
+179,45,Quatro Formaggi 11″ Thin,£7.89,Combination of four different Cheeses Quatro Formaggi
+180,45,Quatro Formaggi Family Size 16″,£15.98,Combination of four different Cheeses Quatro Formaggi
+181,45,Rostica 11″ Deep Pan,£9.99,"Rostica Ham, Pepperoni, Onions, Green Peppers, Cheddar Cheese"
+182,45,Rostica 11″ Thin,£8.99,"Rostica Ham, Pepperoni, Onions, Green Peppers, Cheddar Cheese"
+183,45,Rostica Family Size 16″,£17.98,"Rostica Ham, Pepperoni, Onions, Green Peppers, Cheddar Cheese"
+184,45,Salami 11″ Deep Pan,£8.99,Salami Salami Sausage
+185,45,Salami 11″ Thin,£7.99,Salami Salami Sausage
+186,45,Salami Family Size 16″,£15.98,Salami Salami Sausage
+187,45,Sanvito Pizza 11″ Deep Pan,£9.49,Sanvito Pizza Ham & Chicken
+188,45,Sanvito Pizza 11″ Thin,£8.49,Sanvito Pizza Ham & Chicken
+189,45,Sanvito Pizza Family Size 16″,£16.98,Sanvito Pizza Ham & Chicken
+190,45,Sea Food 11″ Deep Pan,£12.99,"Sea Food Tuna, Mussels, Cockles, Prawns & Calamari,  & Garlic Butter"
+191,45,Sea Food 11″ Thin,£11.99,"Sea Food Tuna, Mussels, Cockles, Prawns & Calamari, Anchovies & Garlic Butter"
+192,45,Sea Food Family Size 16″,£23.98,"Sea Food Tuna, Mussels, Cockles, Prawns & Calamari,  & Garlic Butter"
+193,45,Spicy BBQ Chicken 11″ Deep Pan,£9.49,"Spicy BBQ Chicken Spicy Chicken, BBQ Sauce, Mixed Peppers"
+194,45,Spicy BBQ Chicken 11″ Thin,£8.49,"Spicy BBQ Chicken Spicy Chicken, BBQ Sauce, Mixed Peppers"
+195,45,Spicy BBQ Chicken Family Size 16″,£16.98,"Spicy BBQ Chicken Spicy Chicken, BBQ Sauce, Mixed Peppers"
+196,45,Spicy Beef 11″ Deep Pan,£8.99,"Spicy Beef Spicy Beef, Onions"
+197,45,Spicy Beef 11″ Thin,£7.99,"Spicy Beef Spicy Beef, Onions"
+198,45,Spicy Beef Family Size 16″,£15.98,"Spicy Beef Spicy Beef, Onions"
+199,45,Taste Of Italy 11″ Deep Pan,£9.99,"Taste Of Italy Pepperoni, Salami, Chicken, Green Pepper, Sweetcorn"
+200,45,Taste Of Italy 11″ Thin,£8.99,"Taste Of Italy Pepperoni, Salami, Chicken, Green Pepper, Sweetcorn"
+201,45,Taste Of Italy Family Size 16″,£17.98,"Taste Of Italy Pepperoni, Salami, Chicken, Green Pepper, Sweetcorn"
+202,45,Toscana 11″ Deep Pan,£9.49,"Toscana Ham, Mushrooms, Onions, Pepperoni"
+203,45,Toscana 11″ Thin,£8.49,"Toscana Ham, Mushrooms, Onions, Pepperoni"
+204,45,Toscana Family Size 16″,£16.98,"Toscana Ham, Mushrooms, Onions, Pepperoni"
+205,45,Tropicana 11″ Deep Pan,£8.99,"Tropicana Ham, Pineapple"
+206,45,Tropicana 11″ Thin,£8.49,"Tropicana Ham, Pineapple"
+207,45,Tropicana Family Size 16″,£16.98,"Tropicana Ham, Pineapple"
+208,45,Tuna 11″ Deep Pan,£10.99,"Tuna Tuna, Onions, Sweetcorn"
+209,45,Tuna 11″ Thin,£9.99,"Tuna Tuna, Onions, Sweetcorn"
+210,45,Tuna Family Size 16″,£19.98,"Tuna Tuna, Onions, Sweetcorn"
+211,45,Vegetarian Combination 11″ Deep Pan,£8.89,Five Vegetable toppings of your choice Vegetarian Combination
+212,45,Vegetarian Combination 11″ Thin,£7.89,Five Vegetable toppings of your choice Vegetarian Combination
+213,45,Vegetarian Combination Family Size 16″,£15.78,Five Vegetable toppings of your choice Vegetarian Combination
+214,89,CHICKEN TIKKA DONNER AND PEPPERONI 11″ Deep Pan,£9.99,N/A
+215,89,CHICKEN TIKKA DONNER AND PEPPERONI 11″ Thin,£9.49,N/A
+216,89,HOT LOVER 11″ Deep Pan,£9.49,"Pepperoni, Spicy Beef, Onions, Green Peppers, Cheddar Cheese & Jalapenos"
+217,89,HOT LOVER 11″ Thin,£8.99,"Pepperoni, Spicy Beef, Onions, Green Peppers, Cheddar Cheese & Jalapenos"
+218,89,MEAT FEAST 11″ Deep Pan,£9.99,"Ham, Salami, Garlic Sausage, Pepperoni, Spicy Beef"
+219,89,MEAT FEAST 11″ Thin,£9.49,"Ham, Salami, Garlic Sausage, Pepperoni, Spicy Beef"
+220,89,PENTATHLON 11″ Deep Pan,£9.99,"Mushrooms, Ham, Chicken, Pepperoni"
+221,89,PENTATHLON 11″ Thin,£9.49,"Mushrooms, Ham, Chicken, Pepperoni"
+222,89,PROSCIUTTO FUNGHI 11″ Deep Pan,£9.49,"Ham, Mushrooms"
+223,89,PROSCIUTTO FUNGHI 11″ Deep Pan,£9.49,"Ham, Mushrooms"
+224,89,PROSCIUTTO FUNGHI 11″ Thin,£8.99,"Ham, Mushrooms"
+225,89,ROSTICA 11″ Deep Pan,£9.99,"Ham, Pepperoni, Onions, Green Peppers Cheddar Cheese"
+226,89,ROSTICA 11″ Thin,£9.49,"Ham, Pepperoni, Onions, Green Peppers Cheddar Cheese"
+227,89,SANVITO PIZZA 11″ Deep Pan,£9.49,Ham & Chicken
+228,89,SANVITO PIZZA 11″ Thin,£8.99,"Ham & Chicken,"
+229,89,TOSCANA 11″ Deep Pan,£9.49,"Ham, Mushrooms, Onions, Pepperoni"
+230,89,TOSCANA 11″ Thin,£8.99,"Ham, Mushrooms, Onions, Pepperoni"
+231,89,TROPICANA 11″ Deep Pan,£9.49,"Ham, Pineapple"
+232,89,TROPICANA 11″ Thin,£8.99,"Ham, Pineapple"
+233,46,Calzone (Folded Pizza),£8.59,"Ham, Mushrooms, Pepperoni, Salami & Garlic Sausage"
+234,46,Calzone Kebab (Folded Pizza),£8.29,Doner Meat & Choice of Sauce (Chilli or Garlic Mayo)
+235,46,Calzone Kiev (Folded Pizza),£8.59,"Mushrooms, Ham, Chicken, Garlic Butter & Cheddar Cheese"
